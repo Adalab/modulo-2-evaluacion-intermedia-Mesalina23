@@ -1,0 +1,39 @@
+.main {
+  font-family: sans-serif;
+  color: grey;
+  margin: 20px;
+}
+.gameName {
+  font-weight: 700;
+  font-size: larger;
+}
+.mainForm {
+  display: flex;
+  flex-direction: column;
+}
+.inputUserNumber {
+  width: 45%;
+  margin-bottom: 5px;
+  background-color: rgb(230, 222, 222);
+  height: 30px;
+  border: none;
+  border-radius: 5px;
+}
+.inputCheck {
+  width: 12%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: none;
+  height: 30px;
+  background-color: mediumturquoise;
+  border-radius: 5px;
+  color: white;
+}
+.clue {
+  border: 2px solid rgb(218, 211, 211);
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.counter {
+  border: 2px solid rgb(218, 211, 211);
+}
